@@ -1,0 +1,48 @@
+body{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Belleza;
+    background-color: rgb(102, 73, 73)
+}
+
+#header-name{
+    font-size: 40px;
+    color: black;
+    padding: 15px;
+    margin: 0px 0px 0px 0px;
+}
+.logo{
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    margin-right: 10px;
+}
+#main-header{
+    height: 80px;
+}
+
+#main-image{
+    width: 700px;
+    height: 250px;
+    float: left;
+}
+#side-image {
+    width: 300px;
+    height: 250px;
+    float: right;
+}
+#welcome{
+    width: 700px;
+    float: left;
+    font-size: 12px;
+    margin: 20px 0px 20px 0px;
+}
+footer{
+    width: 100%;
+    background-color: wheat;
+    margin: 20px 0px 20px 0px;
+    padding: 5px 0px 0px 0px;
+    border-radius: 5px;
+
+}
